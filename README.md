@@ -23,8 +23,9 @@ TechPulse Agent automatically fetches, summarizes, and formats tech news into a 
 ## 🚀 Setup
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Add `.env` file with your API keys
-4. Run: `streamlit run app.py`
+3. Reviewing project and planning next improvements
+4. Add `.env` file with your API keys
+5. Run: `streamlit run app.py`
 
 ## 📋 Requirements
 Create `.env` file:
