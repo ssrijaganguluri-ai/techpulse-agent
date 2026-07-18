@@ -30,3 +30,4 @@ TechPulse Agent automatically fetches, summarizes, and formats tech news into a 
 ## 📋 Requirements
 Create `.env` file:
 GROQ_API_KEY=your_key_here
+Daily GitHub Streak - 18 Jul 2026
