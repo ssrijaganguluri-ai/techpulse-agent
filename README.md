@@ -27,6 +27,7 @@ TechPulse Agent automatically fetches, summarizes, and formats tech news into a 
 4. Add `.env` file with your API keys
 5. Run: `streamlit run app.py`
 6. Daily update - July 22
+7. Daily update - july 23
 
 ## 📋 Requirements
 Create `.env` file:
