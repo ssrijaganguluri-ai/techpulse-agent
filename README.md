@@ -34,8 +34,8 @@ TechPulse Agent automatically fetches, summarizes, and formats tech news into a 
 11. Daily update - July 29
 12. Daily update - July 30
 13. Daily update - Auguest
-14. Daily update - Auguest 4 
-   
+14. Daily update - Auguest 4
+15. Daily update - Auguest 5
 
 ## 📋 Requirements
 Create `.env` file:
